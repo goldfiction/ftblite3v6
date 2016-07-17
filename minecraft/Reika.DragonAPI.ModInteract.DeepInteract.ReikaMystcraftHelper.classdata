@@ -1,0 +1,244 @@
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper
+	Annotations: []
+	Modifiers: 1
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$1
+	Annotations: []
+	Modifiers: 1000000001000
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: true
+
+
+Internal Classes:
+
+
+Constructors:
+
+
+Fields:
+
+
+Methods:
+
+
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Annotations: []
+	Modifiers: 100000000011001
+	Superclass: class java.lang.Enum
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+
+
+Constructors:
+		Annotations: []
+		Modifiers: 10
+		Signature: [class java.lang.String, int, class java.lang.String]
+		Exceptions: []
+	Synthetic: false
+
+
+Fields:
+	SYMBOL
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	WORD
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	GRAMMAR
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	INSTABILITY
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	LINKING
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	LINKPROPERTY
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	PAGE
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	SYMBOLVALUES
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	RENDER
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	DIMENSION
+		Annotations: []
+		Modifiers: 100000000011001
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	tag
+		Annotations: []
+		Modifiers: 10010
+		Type: class java.lang.String
+	Synthetic: false
+	$VALUES
+		Annotations: []
+		Modifiers: 1000000011010
+		Type: class [LReika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment;
+	Synthetic: true
+
+
+Methods:
+	values		Annotations: []
+		Modifiers: 1001
+		Signature: []
+		Exceptions: []
+		Return: class [LReika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment;
+	Synthetic: false
+	valueOf		Annotations: []
+		Modifiers: 1001
+		Signature: [class java.lang.String]
+		Exceptions: []
+		Return: class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$APISegment
+	Synthetic: false
+	getTag		Annotations: []
+		Modifiers: 1
+		Signature: [int]
+		Exceptions: []
+		Return: class java.lang.String
+	Synthetic: false
+
+
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$AgeInterface
+	Annotations: []
+	Modifiers: 11010
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+
+
+Constructors:
+		Annotations: []
+		Modifiers: 10
+		Signature: [class net.minecraft.world.World]
+		Exceptions: []
+	Synthetic: false
+		Annotations: []
+		Modifiers: 1000000000000
+		Signature: [class net.minecraft.world.World, class Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper$1]
+		Exceptions: []
+	Synthetic: true
+
+
+Fields:
+	age_controller
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	instability_controller
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	data
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	instabilityNumber
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	blockInstabilityNumber
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	baseInstability
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	symbolList
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Field
+	Synthetic: false
+	getScore
+		Annotations: []
+		Modifiers: 11010
+		Type: class java.lang.reflect.Method
+	Synthetic: false
+	loadedCorrectly
+		Annotations: []
+		Modifiers: 1010
+		Type: boolean
+	Synthetic: false
+	dimensionID
+		Annotations: []
+		Modifiers: 10001
+		Type: int
+	Synthetic: false
+	provider
+		Annotations: []
+		Modifiers: 10010
+		Type: class net.minecraft.world.WorldProvider
+	Synthetic: false
+	ageController
+		Annotations: []
+		Modifiers: 10
+		Type: class java.lang.Object
+	Synthetic: false
+	instabilityController
+		Annotations: []
+		Modifiers: 10
+		Type: class java.lang.Object
+	Synthetic: false
+	ageData
+		Annotations: []
+		Modifiers: 10
+		Type: class java.lang.Object
+	Synthetic: false
+	ageSymbols
+		Annotations: []
+		Modifiers: 10
+		Type: class java.util.HashSet
+	Synthetic: false
+
+
+Methods:
+
+
+Constructors:
+Fields:
+Methods:

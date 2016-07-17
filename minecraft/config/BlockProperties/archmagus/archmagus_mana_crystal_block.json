@@ -1,0 +1,16 @@
+{
+  "_name": "archmagus:archmagus_mana_crystal_block",
+  "stats": {
+    "opacity": 255,
+    "brightness": 9,
+    "hardness": 5.0,
+    "resistance": 30.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

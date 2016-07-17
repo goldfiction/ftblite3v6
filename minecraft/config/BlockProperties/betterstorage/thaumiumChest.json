@@ -1,0 +1,20 @@
+{
+  "_name": "betterstorage:thaumiumChest",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 105.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

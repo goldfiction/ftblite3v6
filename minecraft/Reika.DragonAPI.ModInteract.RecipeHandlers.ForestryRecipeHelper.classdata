@@ -1,0 +1,66 @@
+General:
+	Reika.DragonAPI.ModInteract.RecipeHandlers.ForestryRecipeHelper
+	Annotations: []
+	Modifiers: 1
+	Superclass: class Reika.DragonAPI.Base.ModHandlerBase
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+
+
+Constructors:
+		Annotations: []
+		Modifiers: 10
+		Signature: []
+		Exceptions: []
+	Synthetic: false
+
+
+Fields:
+	instance
+		Annotations: []
+		Modifiers: 11010
+		Type: class Reika.DragonAPI.ModInteract.RecipeHandlers.ForestryRecipeHelper
+	Synthetic: false
+	centrifuge
+		Annotations: []
+		Modifiers: 10010
+		Type: class Reika.DragonAPI.Instantiable.Data.Maps.ItemHashMap
+	Synthetic: false
+
+
+Methods:
+	getInstance		Annotations: []
+		Modifiers: 11001
+		Signature: []
+		Exceptions: []
+		Return: class Reika.DragonAPI.ModInteract.RecipeHandlers.ForestryRecipeHelper
+	Synthetic: false
+	getRecipeOutput		Annotations: []
+		Modifiers: 1
+		Signature: [class net.minecraft.item.ItemStack]
+		Exceptions: []
+		Return: class Reika.DragonAPI.Instantiable.Data.Collections.ChancedOutputList
+	Synthetic: false
+	initializedProperly		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+		Return: boolean
+	Synthetic: false
+	getMod		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+		Return: class Reika.DragonAPI.ModList
+	Synthetic: false
+	getCentrifugeRecipes		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+		Return: interface java.util.Collection
+	Synthetic: false
+
+
