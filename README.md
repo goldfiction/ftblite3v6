@@ -1,7 +1,7 @@
 ## FTBLite3 V6
 ### Welcome to this humble nice server
 
-####. git clone https://github.com/goldfiction/ftblite3v6.git
+####. git clone https://github.com/goldfiction/ftblite3v6.git FTBLite3
 ####. run FTB_Launcher.jar
 ####. Download FTBLite3 in FTB_Launcher.jar
 ####. replace FTBLite3 instance with the FTBLite3V6 folder
